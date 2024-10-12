@@ -1,5 +1,5 @@
 
-baseUrl: "https://opensource-demo.orangehrmlive.com/web/index.php/";
+baseUrl: "https://opensource-demo.orangehrmlive.com/web/index.php/",
 
 env: {
 
