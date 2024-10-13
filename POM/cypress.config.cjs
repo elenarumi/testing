@@ -8,4 +8,8 @@ env: {
         password: "admin123"
 
     }
+
+    endpoint: {
+authLogin: "/auth/Login"
+    }
 }
