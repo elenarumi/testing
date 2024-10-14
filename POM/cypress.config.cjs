@@ -1,5 +1,5 @@
 
-baseUrl: "https://opensource-demo.orangehrmlive.com/web/index.php/",
+baseUrl: "https://opensource-demo.orangehrmlive.com/web/index.php/", // Should be inside the e2e
 
 env: {
 
@@ -10,6 +10,7 @@ env: {
     }
 
     endpoint: {
-authLogin: "/auth/Login"
+authLogin: "/auth/Login",
+dashboardIndex: "/dashboard/index"
     }
 }

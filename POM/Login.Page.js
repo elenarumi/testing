@@ -23,3 +23,4 @@ submitLogin(type) {
 
 }
 }
+export const login = new Login;
